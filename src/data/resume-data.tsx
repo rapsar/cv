@@ -27,9 +27,9 @@ export const RESUME_DATA = {
   about:
     "physicist & explorer",
   summary:
-    "I am broadly interested in trajectories and emergent phenomena. This includes notably animal collective behavior and emergent capabilities of Large Language Models.",
+    "Pluridisciplinary scientist, multicultural thinker, and outdoorsman. I have a broad curiosity for all natural and cultural phenoma. My current interests interlace trajectory analysis, the physics of animal collective behavior, and emergent capabilities of Large Language Models.",
   avatarUrl: "",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://raphaelsarfati.xyz",
   contact: {
     email: "raphael.sarfati@aya.yale.edu",
     tel: "+12034919397",
@@ -101,12 +101,29 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "LLM equation solver",
+      techStack: [
+        "LLM",
+        "Python",
+        "Llama",
+        "ICML",
+      ],
+      description: "Using LLMs to solve dynamical systems",
+      logo: Minimal,
+      link: {
+        label: "LLMtime",
+        href: "",
+      },
+    },
+    {
       title: "tiny-ghosts",
       techStack: [
         "ViT",
+        "Python",
         "fine-tuning",
+        "LLaVA",
       ],
-      description: "Vision Transformer for detection of firefly flashes in noisy images",
+      description: "Vision Transformers for detection of firefly flashes in noisy images",
       logo: Minimal,
       link: {
         label: "tinyghosts",
@@ -116,8 +133,8 @@ export const RESUME_DATA = {
     {
       title: "firefl-eye-net",
       techStack: [
-        "Matlab", 
-        "NN",
+        "NN", 
+        "Matlab",
       ],
       description:
         "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
@@ -157,8 +174,8 @@ export const RESUME_DATA = {
     {
       title: "blinkorsync.org",
       techStack: [
-        "Web", 
         "JS", 
+        "SciComm", 
       ],
       description:
         "Web app to evaluate whether a firefly collective display is synchronous or not",
@@ -171,8 +188,8 @@ export const RESUME_DATA = {
     {
       title: "fonoflies.org",
       techStack: [
-        "Web", 
         "SonicPi", 
+        "HTML", 
       ],
       description: "acoustic experiment to translate firefly light patterns into melodies",
       logo: Minimal,
@@ -184,7 +201,7 @@ export const RESUME_DATA = {
     {
       title: "lucidluminescence.org",
       techStack: [
-        "Web",
+        "HTML",
         "SciComm",
       ],
       description:
@@ -193,6 +210,19 @@ export const RESUME_DATA = {
       link: {
         label: "lulu",
         href: "https://rapsar.github.io",
+      },
+    },
+    {
+      title: "raphaelsarfati.xyz",
+      techStack: [
+        "CSS",
+      ],
+      description:
+        "personal website",
+      logo: Minimal,
+      link: {
+        label: "rs.xyz",
+        href: "https://raphaelsarfati.xyz",
       },
     },
     {
