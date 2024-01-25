@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       title: "Research Associate",
       logo: ParabolLogo,
       start: "2023",
-      end: "____",
+      end: "now",
       description:
         "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
     },
