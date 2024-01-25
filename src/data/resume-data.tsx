@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       title: "Research Associate",
       logo: ParabolLogo,
       start: "2023",
-      end: "",
+      end: "    ",
       description:
         "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
     },
@@ -107,7 +107,7 @@ export const RESUME_DATA = {
         "fine-tuning",
       ],
       description: "Vision Transformer for detection of firefly flashes in noisy images",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "tinyghosts",
         href: "",
@@ -121,7 +121,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "monito.dev",
         href: "https://monito.dev/",
@@ -134,7 +134,7 @@ export const RESUME_DATA = {
                  ],
       description:
         "Calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "oorb",
         href: "",
@@ -162,7 +162,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Web app to evaluate whether a firefly collective display is synchronous or not",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "blinkorsync",
         href: "https://blinkorsync.org",
@@ -175,7 +175,7 @@ export const RESUME_DATA = {
         "SonicPi", 
       ],
       description: "acoustic experiment to translate firefly light patterns into melodies",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "fonoflies.org",
         href: "https://fonoflies.org",
@@ -189,7 +189,7 @@ export const RESUME_DATA = {
       ],
       description:
         "the science of firefly swarms",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "lulu",
         href: "https://rapsar.github.io",
@@ -206,7 +206,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Academic research in biophysics, random walks, and physics of animal collective behavior",
-      logo: ,
+      logo: Minimal,
       link: {
         label: "evercast.us",
         href: "https://scholar.google.com/citations?user=9aaGkZQAAAAJ&hl=en",
