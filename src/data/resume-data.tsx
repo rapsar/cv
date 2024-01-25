@@ -20,10 +20,10 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Raphael Sarfati",
+  name: "Raphaël Sarfati",
   initials: "RS",
   location: "New Haven, USA, EST",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/New+Haven,+CT/",
   about:
     "Physicist and explorer",
   summary:
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Physics",
-    "Random Porcesses",
+    "Random Processes",
     "Behavior Analysis",
     "Matlab",
     "Python",
@@ -107,9 +107,9 @@ export const RESUME_DATA = {
         "fine-tuning",
       ],
       description: "Vision Transformer for detection of firefly flashes in noisy images",
-      logo: tinyghosts,
+      logo: ,
       link: {
-        label: "",
+        label: "tinyghosts",
         href: "",
       },
     },
@@ -121,7 +121,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
-      logo: firefleyenet,
+      logo: ,
       link: {
         label: "monito.dev",
         href: "https://monito.dev/",
@@ -134,7 +134,7 @@ export const RESUME_DATA = {
                  ],
       description:
         "Calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
-      logo: JarockiMeLogo,
+      logo: ,
       link: {
         label: "oorb",
         href: "",
@@ -162,7 +162,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Web app to evaluate whether a firefly collective display is synchronous or not",
-      logo: blinkorsync,
+      logo: ,
       link: {
         label: "blinkorsync",
         href: "https://blinkorsync.org",
@@ -175,7 +175,7 @@ export const RESUME_DATA = {
         "SonicPi", 
       ],
       description: "acoustic experiment to translate firefly light patterns into melodies",
-      logo: fonoflies,
+      logo: ,
       link: {
         label: "fonoflies.org",
         href: "https://fonoflies.org",
@@ -189,7 +189,7 @@ export const RESUME_DATA = {
       ],
       description:
         "the science of firefly swarms",
-      logo: lucidluminescence.org,
+      logo: ,
       link: {
         label: "lulu",
         href: "https://rapsar.github.io",
@@ -206,7 +206,7 @@ export const RESUME_DATA = {
       ],
       description:
         "Academic research in biophysics, random walks, and physics of animal collective behavior",
-      logo: EvercastLogo,
+      logo: ,
       link: {
         label: "evercast.us",
         href: "https://scholar.google.com/citations?user=9aaGkZQAAAAJ&hl=en",
