@@ -21,40 +21,46 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Raphael Sarfati",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  initials: "RS",
+  location: "New Haven, USA, EST",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Physicist and explorer",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "I am broadly interested in trajectories and emergent phenomena. This includes notably animal collective behavior and emergent capabilities of Large Language Models.",
+  avatarUrl: "",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "raphael.sarfati@aya.yale.edu",
+    tel: "+12034919397",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/rapsar",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/raphaelsarfati/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/RaphaelSarfati",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
+      school: "Yale University",
+      degree: "Ph.D. Applied Physics",
+      start: "2010",
+      end: "2017",
+    },
+    {
+      school: "Ecole Polytechnique",
+      degree: "Bachelor's Degree in Physics",
       start: "2007",
       end: "2010",
     },
