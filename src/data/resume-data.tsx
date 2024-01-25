@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       title: "Research Associate",
       logo: ParabolLogo,
       start: "2023",
-      end: "    ",
+      end: "~~~~",
       description:
         "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
     },
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       link: "https://www.colorado.edu/biofrontiers/",
       badges: [],
       title: "Posdoctoral Associate",
-      logo: ClevertechLogo,
+      logo: Minimal,
       start: "2017",
       end: "2023",
       description:
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Physics",
-    "Random Processes",
+    "Diffusion",
     "Behavior Analysis",
     "Matlab",
     "Python",
@@ -123,8 +123,8 @@ export const RESUME_DATA = {
         "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
       logo: Minimal,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "firefleyenet",
+        href: "",
       },
     },
     {
@@ -208,7 +208,7 @@ export const RESUME_DATA = {
         "Academic research in biophysics, random walks, and physics of animal collective behavior",
       logo: Minimal,
       link: {
-        label: "evercast.us",
+        label: "physics",
         href: "https://scholar.google.com/citations?user=9aaGkZQAAAAJ&hl=en",
       },
     },
