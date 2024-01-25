@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "New Haven, USA, EST",
   locationLink: "https://www.google.com/maps/place/New+Haven,+CT/",
   about:
-    "Physicist and explorer",
+    "physicist & explorer",
   summary:
     "I am broadly interested in trajectories and emergent phenomena. This includes notably animal collective behavior and emergent capabilities of Large Language Models.",
   avatarUrl: "",
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       title: "Research Associate",
       logo: ParabolLogo,
       start: "2023",
-      end: "~~~~",
+      end: "&nbsp;&nbsp;&nbsp;&nbsp;",
       description:
         "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
     },
