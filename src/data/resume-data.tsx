@@ -78,7 +78,7 @@ export const RESUME_DATA = {
         "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
     },
     {
-      company: "Unievrsity of Colorado Boulder",
+      company: "University of Colorado Boulder",
       link: "https://www.colorado.edu/biofrontiers/",
       badges: [],
       title: "Posdoctoral Associate",
@@ -106,22 +106,22 @@ export const RESUME_DATA = {
         "ViT",
         "fine-tuning",
       ],
-      description: "Vision Transfomer for detection of firefly flashes in noisy images",
-      logo: ConsultlyLogo,
+      description: "Vision Transformer for detection of firefly flashes in noisy images",
+      logo: tinyghosts,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "",
+        href: "",
       },
     },
     {
-      title: "fireflEyeNet",
+      title: "firefl-eye-net",
       techStack: [
         "Matlab", 
         "NN",
       ],
       description:
-        "Training set and neural networks for accurate identification and localization of firefly flashes in natural images",
-      logo: MonitoLogo,
+        "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
+      logo: firefleyenet,
       link: {
         label: "monito.dev",
         href: "https://monito.dev/",
@@ -133,37 +133,39 @@ export const RESUME_DATA = {
                   "3D"
                  ],
       description:
-        "calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
+        "Calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
       logo: JarockiMeLogo,
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "oorb",
+        href: "",
       },
     },
     {
       title: "flash sequence classifier",
-      techStack: ["NN", 
+      techStack: ["RNN", 
+                  "Python",
+                  "peer-reviewed"
                  ],
       description:
-        "Automated firefly flash sequence recognition using neural network",
+        "RNN for classification of firefly flash sequences",
       logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "seqclass",
+        href: "https://www.biorxiv.org/content/10.1101/2023.03.08.531653",
       },
     },
     {
       title: "blinkorsync.org",
       techStack: [
         "Web", 
-        "Java", 
+        "JS", 
       ],
       description:
         "Web app to evaluate whether a firefly collective display is synchronous or not",
-      logo: BarepapersLogo,
+      logo: blinkorsync,
       link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
+        label: "blinkorsync",
+        href: "https://blinkorsync.org",
       },
     },
     {
@@ -173,7 +175,7 @@ export const RESUME_DATA = {
         "SonicPi", 
       ],
       description: "acoustic experiment to translate firefly light patterns into melodies",
-      logo: YearProgressLogo,
+      logo: fonoflies,
       link: {
         label: "fonoflies.org",
         href: "https://fonoflies.org",
@@ -187,28 +189,27 @@ export const RESUME_DATA = {
       ],
       description:
         "the science of firefly swarms",
-      logo: ParabolLogo,
+      logo: lucidluminescence.org,
       link: {
         label: "lulu",
         href: "https://rapsar.github.io",
       },
     },
     {
-      title: "Evercast",
+      title: "Physics",
       techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Soft Matter",
+        "Stochastic Processes",
+        "Behavior",
+        "Emergence",
+        "Trajectory Analysis",
       ],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
+        "Academic research in biophysics, random walks, and physics of animal collective behavior",
       logo: EvercastLogo,
       link: {
         label: "evercast.us",
-        href: "https://www.evercast.us/",
+        href: "https://scholar.google.com/citations?user=9aaGkZQAAAAJ&hl=en",
       },
     },
   ],
