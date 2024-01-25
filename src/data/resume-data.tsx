@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "physicist & explorer",
   summary:
-    "Pluridisciplinary scientist, multicultural thinker, and outdoorsman. I have a broad curiosity for all natural and cultural phenoma. My current interests interlace trajectory analysis, the physics of animal collective behavior, and emergent capabilities of Large Language Models.",
+    "Pluridisciplinary scientist, multicultural adventurer. I have a broad curiosity for all natural and cultural phenomena. My current research intertwines trajectory analysis, the physics of animal collective behavior, and emergent capabilities of Large Language Models.",
   avatarUrl: "",
   personalWebsiteUrl: "https://raphaelsarfati.xyz",
   contact: {
@@ -71,11 +71,11 @@ export const RESUME_DATA = {
       link: "https://sciaicenter.engineering.cornell.edu",
       badges: ["Remote"],
       title: "Research Associate",
-      logo: ParabolLogo,
+      logo: Minimal,
       start: "2023",
       end: "now",
       description:
-        "Lost in Transformation: geometry and trajectories in the transformer architecture of Large Language Models",
+        "Lost in Transformation: trajectory and geometry in the transformer architecture of LLMs",
     },
     {
       company: "University of Colorado Boulder",
@@ -86,7 +86,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2023",
       description:
-        "Stochastic processes, animal collective behavior",
+        "Swarms, flocks, crowds: the physics of animal collective behavior",
     },
   ],
   skills: [
@@ -101,17 +101,17 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "LLM equation solver",
+      title: "LLM trajectory solver",
       techStack: [
         "LLM",
-        "Python",
+        "Py",
         "Llama",
         "ICML",
       ],
-      description: "Using LLMs to solve dynamical systems",
+      description: "using LLMs to infer solutions of dynamical systems",
       logo: Minimal,
       link: {
-        label: "LLMtime",
+        label: "LLMtraj",
         href: "",
       },
     },
@@ -119,9 +119,9 @@ export const RESUME_DATA = {
       title: "tiny-ghosts",
       techStack: [
         "ViT",
-        "Python",
-        "fine-tuning",
+        "Py",
         "LLaVA",
+        "finetuning",
       ],
       description: "Vision Transformers for detection of firefly flashes in noisy images",
       logo: Minimal,
@@ -131,13 +131,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "firefl-eye-net",
+      title: "firefleye-net",
       techStack: [
-        "NN", 
+        "ML", 
         "Matlab",
       ],
       description:
-        "Training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
+        "training set and neural networks for accurate localization of firefly flashes in natural images and movie frames",
       logo: Minimal,
       link: {
         label: "firefleyenet",
@@ -150,7 +150,7 @@ export const RESUME_DATA = {
                   "3D"
                  ],
       description:
-        "Calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
+        "calibration-free 3D reconstruction of firefly swarms from 360-degree cameras",
       logo: Minimal,
       link: {
         label: "oorb",
@@ -158,16 +158,16 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "flash sequence classifier",
+      title: "flash pattern classifier",
       techStack: ["RNN", 
-                  "Python",
+                  "Py",
                   "peer-reviewed"
                  ],
       description:
-        "RNN for classification of firefly flash sequences",
+        "RNNs for species identification from firefly flash patterns",
       logo: Minimal,
       link: {
-        label: "seqclass",
+        label: "patternclass",
         href: "https://www.biorxiv.org/content/10.1101/2023.03.08.531653",
       },
     },
@@ -178,7 +178,7 @@ export const RESUME_DATA = {
         "SciComm", 
       ],
       description:
-        "Web app to evaluate whether a firefly collective display is synchronous or not",
+        "web app for the analysis of firefly synchrony",
       logo: Minimal,
       link: {
         label: "blinkorsync",
@@ -229,13 +229,13 @@ export const RESUME_DATA = {
       title: "Physics",
       techStack: [
         "Soft Matter",
-        "Stochastic Processes",
+        "Stochasticity",
         "Behavior",
         "Emergence",
-        "Trajectory Analysis",
+        "Trajectories",
       ],
       description:
-        "Academic research in biophysics, random walks, and physics of animal collective behavior",
+        "Academic research in biophysics, random walks, emergent phenomena",
       logo: Minimal,
       link: {
         label: "physics",
