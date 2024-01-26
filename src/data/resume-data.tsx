@@ -105,10 +105,10 @@ export const RESUME_DATA = {
       techStack: [
         "LLM",
         "Py",
-        "Llama",
+        "LLaMA",
         "ICML",
       ],
-      description: "using LLMs to infer solutions of dynamical systems",
+      description: "LLMs for in-context numerical inferrence of dynamical systems",
       logo: Minimal,
       link: {
         label: "LLMtraj",
