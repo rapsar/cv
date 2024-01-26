@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "physicist & explorer",
   summary:
     "Pluridisciplinary scientist, multicultural adventurer. I have a broad curiosity for all natural and cultural phenomena. My current research intertwines trajectory analysis, the physics of collective behavior, and emergent capabilities of Large Language Models.",
-  avatarUrl: Minimal,
+  avatarUrl: BimLogo,
   personalWebsiteUrl: "https://raphaelsarfati.xyz",
   contact: {
     email: "raphael.sarfati@aya.yale.edu",
