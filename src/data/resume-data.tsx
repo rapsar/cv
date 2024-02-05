@@ -108,11 +108,11 @@ export const RESUME_DATA = {
         "LLaMA",
         "ICML",
       ],
-      description: "LLMs for in-context numerical inferrence of dynamical systems",
+      description: "LLMs for in-context learning of dynamical systems",
       logo: Minimal,
       link: {
         label: "LLMtraj",
-        href: "",
+        href: "https://arxiv.org/abs/2402.00795",
       },
     },
     {
