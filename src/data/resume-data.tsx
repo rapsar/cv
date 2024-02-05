@@ -101,7 +101,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "LLM trajectory solver",
+      title: "LLM trajectory extrapolation",
       techStack: [
         "LLM",
         "Py",
